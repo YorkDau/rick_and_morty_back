@@ -19,7 +19,9 @@ git clone https://github.com/YorkDau/rick_and_morty_back.git
 npm install
 npm run dev
 ```
-## Una vez que el servidor esté en funcionamiento, puedes utilizar GraphQL Playground para explorar y realizar consultas a la API GraphQL. Aquí tienes un ejemplo de consulta:
+## Uso
+
+Una vez que el servidor esté en funcionamiento, puedes utilizar GraphQL Playground para explorar y realizar consultas a la API GraphQL. Aquí tienes un ejemplo de consulta:
 ```bash
 query {
   characters {
